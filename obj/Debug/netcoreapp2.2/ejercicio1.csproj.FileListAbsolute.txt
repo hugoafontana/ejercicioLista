@@ -1,0 +1,17 @@
+C:\Users\Hugo\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.csprojAssemblyReference.cache
+C:\Users\Hugo\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Hugo\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.AssemblyInfo.cs
+C:\Users\Hugo\ejercicio1\bin\Debug\netcoreapp2.2\ejercicio1.deps.json
+C:\Users\Hugo\ejercicio1\bin\Debug\netcoreapp2.2\ejercicio1.runtimeconfig.json
+C:\Users\Hugo\ejercicio1\bin\Debug\netcoreapp2.2\ejercicio1.runtimeconfig.dev.json
+C:\Users\Hugo\ejercicio1\bin\Debug\netcoreapp2.2\ejercicio1.dll
+C:\Users\Hugo\ejercicio1\bin\Debug\netcoreapp2.2\ejercicio1.pdb
+C:\Users\Hugo\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.dll
+C:\Users\Hugo\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.pdb
+C:\Users\Hugo\Lagash\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.csprojAssemblyReference.cache
+C:\Users\Hugo\Lagash\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Lagash\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Hugo\Lagash\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.AssemblyInfo.cs
+C:\Users\Hugo\Lagash\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.dll
+C:\Users\Hugo\Lagash\ejercicio1\obj\Debug\netcoreapp2.2\ejercicio1.pdb
